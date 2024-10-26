@@ -2,4 +2,4 @@
 
 Работа направлена на верстку частично готового проекта.
 В проекте пришлось оформлять видео и настраивать фокус интерактивных элементов.
-[https://github.com/AlbinaWebDev/posmotri_v_okno] (https://github.com)
+https://github.com/AlbinaWebDev/posmotri_v_okno
