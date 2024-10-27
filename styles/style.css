@@ -112,6 +112,7 @@ ol {
   display: flex;
   width: fit-content;
   gap: 5px;
+  align-items: center;
 }
 
 .search-form__checkbox-list {
